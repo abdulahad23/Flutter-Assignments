@@ -1,7 +1,7 @@
+import 'package:assignment_2_periodic_table/home_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:new_project/home_screen.dart';
 
-main() {
+void main() {
   runApp(MyApp());
 }
 
